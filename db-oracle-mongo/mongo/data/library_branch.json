@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "618a7c4c3543f7cc2f79afd8"
+  },
+  "branch_name": "Oak Lawn",
+  "address": "4100 Cedar Springs Road, 75219",
+  "branch_id": 1
+},{
+  "_id": {
+    "$oid": "618a7c4c3543f7cc2f79afd9"
+  },
+  "branch_name": "Lakewood",
+  "address": "6121 Worth Street, 75214",
+  "branch_id": 2
+},{
+  "_id": {
+    "$oid": "618a7c4c3543f7cc2f79afda"
+  },
+  "branch_name": "Grauwyler Park",
+  "address": "2146 Gilford Street, 75235",
+  "branch_id": 3
+},{
+  "_id": {
+    "$oid": "618a7c4c3543f7cc2f79afdb"
+  },
+  "branch_name": "Highland Hills",
+  "address": "3624 Simpson Stuart Road, 75241",
+  "branch_id": 4
+},{
+  "_id": {
+    "$oid": "618a7c4c3543f7cc2f79afdc"
+  },
+  "branch_name": "Audelia Road",
+  "address": "10045 Audelia Road, 75238",
+  "branch_id": 5
+}]
